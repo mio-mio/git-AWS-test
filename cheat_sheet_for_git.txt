@@ -1,3 +1,4 @@
 At first  http://exrecord.net/how-to-connect-cloud9-to-github#Cloud9Github
 
 And cheat sheet  https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+if it is not enough, JP version is here; https://qiita.com/okamu_/items/d52a6900311ad9073628
