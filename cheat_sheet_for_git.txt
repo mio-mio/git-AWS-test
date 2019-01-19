@@ -1,4 +1,6 @@
-At first  http://exrecord.net/how-to-connect-cloud9-to-github#Cloud9Github
+At first  
+How to get SSH Key: https://qiita.com/acecrc/items/8e17b08c4fb0b4d9c9f9#iam%E3%81%AB%E3%81%A6%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9Fssh%E3%82%AD%E3%83%BC%E3%82%92%E7%99%BB%E9%8C%B2
+http://exrecord.net/how-to-connect-cloud9-to-github#Cloud9Github
 
 And cheat sheet  https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 if it is not enough, JP version is here; https://qiita.com/okamu_/items/d52a6900311ad9073628
